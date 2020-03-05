@@ -1,0 +1,12 @@
+Enter the Key for the Encryption: 3
+KEY IS 3
+Enter the Message you want to ENCRYPT : 
+computer
+Cipher text: frpsxwhu
+['fsh', 'rxu', 'pw_']
+Encrypted text is: fshrxupw_
+['frp', 'sxw', 'hu_']
+Encrypted text is: frpsxwhu_
+Decipher text: fshrxupw_
+Decipher text: frpsxwhu_
+Decrypted text: computer
